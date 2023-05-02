@@ -1,6 +1,6 @@
 # Mastering_Python_15_days
 
-> Mastering Python in 12 days is an ambitious goal, but with dedicated effort, it is possible to make significant progress in learning the language in that timeframe. Here are some tips to help you get started:
+> Mastering Python in 15 days is an ambitious goal, but with dedicated effort, it is possible to make significant progress in learning the language in that timeframe. Here are some tips to help you get started:
 > 
 1. Set realistic goals: Break down the learning process into manageable chunks, and set realistic goals for each day. For example, you could aim to complete a certain number of chapters in a book or complete a specific tutorial each day.
 2. Practice coding daily: Consistent practice is key to learning any programming language. Try to spend a minimum of one hour coding each day, even if it's just reviewing and practicing what you learned in previous days.
@@ -37,3 +37,9 @@ You can view my **github** to get the example code and guideline
 [Day 11: Higher order function (map, filter and reduce)](https://www.notion.so/Day-11-Higher-order-function-map-filter-and-reduce-184ca388dd69497e8cca900b1535d959)
 
 [Day 12: Date and Date Time](https://www.notion.so/Day-12-Date-and-Date-Time-d7438f4d46f94d679dec715248d5eda7)
+
+[Day 13: Math built-in functions](https://geeksdata.notion.site/Day-13-Math-built-in-functions-689269de35dd4d4ca4d525b6fc5ec243)
+
+[Day 14: Json built-in package](https://geeksdata.notion.site/Day-14-Json-built-in-package-6a6c5d1b5cde47ea9102a183366fe049)
+
+[Day 15: Some Python projects from Beginner to Master]
