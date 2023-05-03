@@ -42,4 +42,4 @@ You can view my **github** to get the example code and guideline
 
 [Day 14: Json built-in package](https://geeksdata.notion.site/Day-14-Json-built-in-package-6a6c5d1b5cde47ea9102a183366fe049)
 
-[Day 15: Some Python projects from Beginner to Master]
+[Day 15: Some Python projects from Beginner to Master](https://geeksdata.notion.site/Day-15-Some-Python-projects-from-Beginner-to-Master-b4f7de7db8b64175ac0d4a6e4b23218b)
